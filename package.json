@@ -1,0 +1,25 @@
+{
+  "name": "botscrape",
+  "version": "0.0.1",
+  "description": "API to scrape elements from a page and return results in JSON",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jphase/botscrape-restify.git"
+  },
+  "keywords": [
+    "restify",
+    "cheerio",
+    "API",
+    "JSON",
+    "scrape"
+  ],
+  "author": "jphase",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/jphase/botscrape-restify/issues"
+  }
+}
